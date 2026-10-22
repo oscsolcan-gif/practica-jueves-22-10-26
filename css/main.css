@@ -79,7 +79,7 @@ footer p { color:gray
 
     h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-    color:black
+    color:black;
     font-size: 2rem;
 }
     nav    {
@@ -150,7 +150,7 @@ footer p { color:gray
     }
 h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-    color:darkblue
+    color:darkblue;
     font-size: 2rem;
 }
 
@@ -202,10 +202,12 @@ h1 {
     margin-top: 15px;
 }
 
+
 footer p { color:gray
              }
 
 
+            }
 
 
 
@@ -219,7 +221,7 @@ footer p { color:gray
     }
 h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-    color:blue
+    color:blue;
     font-size: 2rem;
 }
 
@@ -274,3 +276,4 @@ h1 {
 footer p { color:gray
              }
 
+}
