@@ -1,0 +1,39 @@
+body {
+
+    background-color: aquamarine;
+
+}
+
+/* ===================768px=============== */
+
+
+@media (min-width:768px) {
+
+    body {
+    background-color:rgb(206, 119, 13);
+    }
+}
+
+
+
+/* ===================992px=============== */
+
+@media (min-width:992px) {
+
+    body {
+    background-color:rgb(111, 210, 12);
+    }
+
+}
+
+
+
+/* ===================1200px=============== */
+
+@media (min-width:1200px) {
+
+    body {
+    background-color:rgb(3, 177, 177);
+    }
+}
+
