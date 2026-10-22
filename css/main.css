@@ -1,16 +1,71 @@
+
 body {
 
     background-color: aquamarine;
 
 }
 
+.titulo {
+    border: 2px solid red;
+    padding: 10px;
+    margin-top: 15px;
+}
 h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-    color:black
+    color:black;
     font-size: 2rem;
-
-
 }
+
+        nav    {
+            border: 2px solid red;
+            padding: 10px;
+               }
+        nav ul {
+            display: flex;
+            list-style: none;
+            padding: 0;
+            gap: 10px;
+               }
+        nav li {
+            border: 2px solid black;
+            padding: 8px;
+            flex: 1;
+            text-align: center;
+               }
+
+.menu {
+    border: 2px solid red;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+    #inicio {
+         border: 2px solid red;
+         padding: 10px;
+         margin-top: 15px;
+    } 
+         
+    #servicios {
+         border: 2px solid red;
+         padding: 10px;
+         margin-top: 15px;
+         }
+
+
+       article {
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+}  
+
+#contacto {
+    border: 2px solid red;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+footer p { color:gray
+             }
 
 
 /* ===================768px=============== */
@@ -27,12 +82,57 @@ h1 {
     color:black
     font-size: 2rem;
 }
+    nav    {
+            border: 2px solid red;
+            padding: 10px;
+               }
+        nav ul {
+            display: flex;
+            list-style: none;
+            padding: 0;
+            gap: 10px;
+               }
+        nav li {
+            border: 2px solid black;
+            padding: 8px;
+            flex: 1;
+            text-align: center;
+               }
 
-.content-box {
-    width: 300px;   /* Ancho del contenido */
-    height: 150px;  /* Altura del contenido */
-    background-color: lightblue; /* Color de fondo */
+.menu {
+    border: 2px solid red;
+    padding: 10px;
+    margin-top: 15px;
 }
+
+    #inicio {
+         border: 2px solid red;
+         padding: 10px;
+         margin-top: 15px;
+    } 
+         
+    #servicios {
+         border: 2px solid red;
+         padding: 10px;
+         margin-top: 15px;
+         }
+
+
+       article {
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+}  
+
+#contacto {
+    border: 2px solid red;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+footer p { color:gray
+             }
+
 
 
 
@@ -54,24 +154,59 @@ h1 {
     font-size: 2rem;
 }
 
-.content-box {
-    width: 300px;   /* Ancho del contenido */
-    height: 150px;  /* Altura del contenido */
-    background-color: lightblue; /* Color de fondo */
+    nav    {
+            border: 2px solid red;
+            padding: 10px;
+               }
+        nav ul {
+            display: flex;
+            list-style: none;
+            padding: 0;
+            gap: 10px;
+               }
+        nav li {
+            border: 2px solid black;
+            padding: 8px;
+            flex: 1;
+            text-align: center;
+               }
+
+.menu {
+    border: 2px solid red;
+    padding: 10px;
+    margin-top: 15px;
 }
 
-.padding-box-specific {
-    width: 200px;
-    height: 100px;
-    padding-top: 10px;    /* Padding superior */
-    padding-right: 15px;  /* Padding derecho */
-    padding-bottom: 20px; /* Padding inferior */
-    padding-left: 25px;   /* Padding izquierdo */
-    background-color: lightcoral;
-}
+    #inicio {
+         border: 2px solid red;
+         padding: 10px;
+         margin-top: 15px;
+    } 
+         
+    #servicios {
+         border: 2px solid red;
+         padding: 10px;
+         margin-top: 15px;
+         }
 
 
+       article {
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+}  
+
+#contacto {
+    border: 2px solid red;
+    padding: 10px;
+    margin-top: 15px;
 }
+
+footer p { color:gray
+             }
+
+
+
 
 
 
@@ -88,24 +223,54 @@ h1 {
     font-size: 2rem;
 }
 
+    nav    {
+            border: 2px solid red;
+            padding: 10px;
+               }
+        nav ul {
+            display: flex;
+            list-style: none;
+            padding: 0;
+            gap: 10px;
+               }
+        nav li {
+            border: 2px solid black;
+            padding: 8px;
+            flex: 1;
+            text-align: center;
+               }
 
-.content-box {
-    width: 300px;   /* Ancho del contenido */
-    height: 150px;  /* Altura del contenido */
-    background-color: lightblue; /* Color de fondo */
+.menu {
+    border: 2px solid red;
+    padding: 10px;
+    margin-top: 15px;
 }
 
+    #inicio {
+         border: 2px solid red;
+         padding: 10px;
+         margin-top: 15px;
+    } 
+         
+    #servicios {
+         border: 2px solid red;
+         padding: 10px;
+         margin-top: 15px;
+         }
 
-.padding-box-specific {
-    width: 200px;
-    height: 100px;
-    padding-top: 10px;    /* Padding superior */
-    padding-right: 15px;  /* Padding derecho */
-    padding-bottom: 20px; /* Padding inferior */
-    padding-left: 25px;   /* Padding izquierdo */
-    background-color: lightcoral;
+
+       article {
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+}  
+
+#contacto {
+    border: 2px solid red;
+    padding: 10px;
+    margin-top: 15px;
 }
 
-
-}
+footer p { color:gray
+             }
 
